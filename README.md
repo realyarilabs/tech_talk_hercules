@@ -1,2 +1,2 @@
-# tech_talk_hercules
-first tech talk on Hercules framework
+# blockchain-workshop-2
+Second blockchain workshop @ Yari
